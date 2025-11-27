@@ -1,1 +1,4 @@
-.venv/
+/.venv/
+WorkNoteBooks/dataset/
+WorkNoteBooks/models/
+
