@@ -1,0 +1,55 @@
+DOCUMENT: HealthCare Support Guidelines v1.2
+
+SECTION 1: GENERAL INFORMATION
+HealthCare Support is a program designed to assist patients with medication access, eligibility, and adverse event reporting. The system ensures compliance with regulatory requirements.
+
+SECTION 2: ELIGIBILITY RULES
+Patients are eligible for support if they meet the following criteria:
+- Must be 18 years or older
+- Must be a resident of the United States
+- Must have a valid prescription from a licensed physician
+
+Exceptions:
+Patients under 18 may be eligible under special pediatric programs if approved by a medical reviewer.
+
+SECTION 3: ADVERSE EVENT (AE) REPORTING
+An adverse event is defined as any undesirable experience associated with the use of a medical product.
+
+Examples include:
+- Headache
+- Nausea
+- Dizziness
+- Severe allergic reactions
+
+All adverse events must be reported within 24 hours of awareness.
+
+SECTION 4: PRODUCT COMPLAINT (PC)
+A product complaint refers to issues related to the product quality, packaging, or delivery.
+
+Examples:
+- Damaged packaging
+- Missing tablets
+- Incorrect labeling
+
+Product complaints do NOT include health-related symptoms.
+
+SECTION 5: SAVINGS CARD SUPPORT
+Patients may request savings cards for eligible medications.
+
+Process:
+1. User requests savings card
+2. System asks for phone number
+3. User confirms phone number
+4. Card link is sent via SMS
+
+SECTION 6: VERBATIM RESPONSE RULE
+If a user asks a question that exactly matches a stored FAQ, the system MUST return the exact answer without modification.
+
+Example:
+Q: What is an adverse event?
+A: An adverse event is defined as any undesirable experience associated with the use of a medical product.
+
+SECTION 7: CONTACT POLICY
+Users should not be contacted without explicit consent. Phone numbers must be confirmed before sending any communication.
+
+END OF DOCUMENT
